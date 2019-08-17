@@ -1,2 +1,1 @@
-# HenryLu
-Wow.
+# Hanming Lu
